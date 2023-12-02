@@ -37,7 +37,7 @@ class Buttons extends JFrame
 
 	public static void main (String[] args)
 	{
-		Buttons gui = new Buttons();
+		new Buttons();
 	} 
 }
 

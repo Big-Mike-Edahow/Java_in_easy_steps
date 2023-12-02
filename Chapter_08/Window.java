@@ -17,7 +17,7 @@ class Window extends JFrame
 
 	public static void main (String[] args)
 	{
-		Window gui = new Window();
+		new Window();
 	} 
 }
 

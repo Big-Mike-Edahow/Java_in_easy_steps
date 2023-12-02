@@ -39,7 +39,7 @@ class Labels extends JFrame
 
 	public static void main (String[] args)
 	{
-		Labels gui = new Labels();
+		new Labels();
 	} 
 }
 

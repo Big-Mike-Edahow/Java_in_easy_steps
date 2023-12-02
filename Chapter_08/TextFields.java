@@ -34,7 +34,7 @@ class TextFields extends JFrame
 
 	public static void main (String[] args)
 	{
-		TextFields gui = new TextFields();
+		new TextFields();
 	} 
 }
 

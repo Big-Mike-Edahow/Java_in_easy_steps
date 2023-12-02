@@ -43,7 +43,7 @@ class Checkbox extends JFrame
 
 	public static void main (String[] args)
 	{
-		Checkbox gui = new Checkbox();
+		new Checkbox();
 	} 
 }
 

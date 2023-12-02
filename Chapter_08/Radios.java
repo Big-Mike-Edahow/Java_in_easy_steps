@@ -30,7 +30,7 @@ class Radios extends JFrame
 
 	public static void main (String[] args)
 	{
-		Radios gui = new Radios();
+		new Radios();
 	} 
 }
 
